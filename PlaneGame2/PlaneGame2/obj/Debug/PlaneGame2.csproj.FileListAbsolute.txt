@@ -1,0 +1,10 @@
+C:\Users\KingShing\source\repos\PlaneGame2\PlaneGame2\bin\Debug\PlaneGame2.exe.config
+C:\Users\KingShing\source\repos\PlaneGame2\PlaneGame2\bin\Debug\PlaneGame2.exe
+C:\Users\KingShing\source\repos\PlaneGame2\PlaneGame2\bin\Debug\PlaneGame2.pdb
+C:\Users\KingShing\source\repos\PlaneGame2\PlaneGame2\obj\Debug\PlaneGame2.Properties.Resources.resources
+C:\Users\KingShing\source\repos\PlaneGame2\PlaneGame2\obj\Debug\PlaneGame2.Resource1.resources
+C:\Users\KingShing\source\repos\PlaneGame2\PlaneGame2\obj\Debug\PlaneGame2.csproj.GenerateResource.Cache
+C:\Users\KingShing\source\repos\PlaneGame2\PlaneGame2\obj\Debug\PlaneGame2.csproj.CoreCompileInputs.cache
+C:\Users\KingShing\source\repos\PlaneGame2\PlaneGame2\obj\Debug\PlaneGame2.exe
+C:\Users\KingShing\source\repos\PlaneGame2\PlaneGame2\obj\Debug\PlaneGame2.pdb
+C:\Users\KingShing\source\repos\PlaneGame2\PlaneGame2\obj\Debug\PlaneGame2.PlaneGame.resources

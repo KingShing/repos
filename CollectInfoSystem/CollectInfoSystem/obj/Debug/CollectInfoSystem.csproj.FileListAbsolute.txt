@@ -1,0 +1,12 @@
+C:\Users\KingShing\source\repos\CollectInfoSystem\CollectInfoSystem\bin\Debug\CollectInfoSystem.exe.config
+C:\Users\KingShing\source\repos\CollectInfoSystem\CollectInfoSystem\bin\Debug\CollectInfoSystem.exe
+C:\Users\KingShing\source\repos\CollectInfoSystem\CollectInfoSystem\bin\Debug\CollectInfoSystem.pdb
+C:\Users\KingShing\source\repos\CollectInfoSystem\CollectInfoSystem\obj\Debug\CollectInfoSystem.csprojResolveAssemblyReference.cache
+C:\Users\KingShing\source\repos\CollectInfoSystem\CollectInfoSystem\obj\Debug\CollectInfoSystem.Collect.resources
+C:\Users\KingShing\source\repos\CollectInfoSystem\CollectInfoSystem\obj\Debug\CollectInfoSystem.Properties.Resources.resources
+C:\Users\KingShing\source\repos\CollectInfoSystem\CollectInfoSystem\obj\Debug\CollectInfoSystem.csproj.GenerateResource.Cache
+C:\Users\KingShing\source\repos\CollectInfoSystem\CollectInfoSystem\obj\Debug\CollectInfoSystem.csproj.CoreCompileInputs.cache
+C:\Users\KingShing\source\repos\CollectInfoSystem\CollectInfoSystem\obj\Debug\CollectInfoSystem.exe
+C:\Users\KingShing\source\repos\CollectInfoSystem\CollectInfoSystem\obj\Debug\CollectInfoSystem.pdb
+C:\Users\KingShing\source\repos\CollectInfoSystem\CollectInfoSystem\obj\Debug\CollectInfoSystem.DataAnalyze.resources
+C:\Users\KingShing\source\repos\CollectInfoSystem\CollectInfoSystem\obj\Debug\CollectInfoSystem.SelectOption.resources

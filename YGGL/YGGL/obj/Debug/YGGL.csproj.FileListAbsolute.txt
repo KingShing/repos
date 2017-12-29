@@ -1,0 +1,9 @@
+C:\Users\KingShing\source\repos\YGGL\YGGL\bin\Debug\YGGL.exe.config
+C:\Users\KingShing\source\repos\YGGL\YGGL\bin\Debug\YGGL.exe
+C:\Users\KingShing\source\repos\YGGL\YGGL\bin\Debug\YGGL.pdb
+C:\Users\KingShing\source\repos\YGGL\YGGL\obj\Debug\YGGL.Form1.resources
+C:\Users\KingShing\source\repos\YGGL\YGGL\obj\Debug\YGGL.Properties.Resources.resources
+C:\Users\KingShing\source\repos\YGGL\YGGL\obj\Debug\YGGL.csproj.GenerateResource.Cache
+C:\Users\KingShing\source\repos\YGGL\YGGL\obj\Debug\YGGL.csproj.CoreCompileInputs.cache
+C:\Users\KingShing\source\repos\YGGL\YGGL\obj\Debug\YGGL.exe
+C:\Users\KingShing\source\repos\YGGL\YGGL\obj\Debug\YGGL.pdb

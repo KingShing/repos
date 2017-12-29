@@ -1,0 +1,11 @@
+C:\Users\KingShing\source\repos\投篮\投篮\bin\Debug\投篮.exe.config
+C:\Users\KingShing\source\repos\投篮\投篮\bin\Debug\投篮.exe
+C:\Users\KingShing\source\repos\投篮\投篮\bin\Debug\投篮.pdb
+C:\Users\KingShing\source\repos\投篮\投篮\obj\Debug\投篮.csprojResolveAssemblyReference.cache
+C:\Users\KingShing\source\repos\投篮\投篮\obj\Debug\投篮.Form1.resources
+C:\Users\KingShing\source\repos\投篮\投篮\obj\Debug\投篮.Properties.Resources.resources
+C:\Users\KingShing\source\repos\投篮\投篮\obj\Debug\投篮.Resource1.resources
+C:\Users\KingShing\source\repos\投篮\投篮\obj\Debug\投篮.csproj.GenerateResource.Cache
+C:\Users\KingShing\source\repos\投篮\投篮\obj\Debug\投篮.csproj.CoreCompileInputs.cache
+C:\Users\KingShing\source\repos\投篮\投篮\obj\Debug\投篮.exe
+C:\Users\KingShing\source\repos\投篮\投篮\obj\Debug\投篮.pdb

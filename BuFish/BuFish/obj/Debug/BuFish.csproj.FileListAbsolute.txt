@@ -1,0 +1,15 @@
+c:\users\kingshing\source\repos\BuFish\BuFish\bin\Debug\BuFish.exe.config
+c:\users\kingshing\source\repos\BuFish\BuFish\bin\Debug\BuFish.exe
+c:\users\kingshing\source\repos\BuFish\BuFish\bin\Debug\BuFish.pdb
+c:\users\kingshing\source\repos\BuFish\BuFish\obj\Debug\BuFish.csprojResolveAssemblyReference.cache
+c:\users\kingshing\source\repos\BuFish\BuFish\obj\Debug\BuFish.BuFish.resources
+c:\users\kingshing\source\repos\BuFish\BuFish\obj\Debug\BuFish.MyResource.resources
+c:\users\kingshing\source\repos\BuFish\BuFish\obj\Debug\BuFish.Properties.Resources.resources
+c:\users\kingshing\source\repos\BuFish\BuFish\obj\Debug\BuFish.csproj.GenerateResource.Cache
+c:\users\kingshing\source\repos\BuFish\BuFish\obj\Debug\BuFish.csproj.CoreCompileInputs.cache
+c:\users\kingshing\source\repos\BuFish\BuFish\obj\Debug\BuFish.exe
+c:\users\kingshing\source\repos\BuFish\BuFish\obj\Debug\BuFish.pdb
+C:\Users\KingShing\source\repos\BuFish\BuFish\bin\Debug\BuFish.exe.manifest
+C:\Users\KingShing\source\repos\BuFish\BuFish\bin\Debug\BuFish.application
+C:\Users\KingShing\source\repos\BuFish\BuFish\obj\Debug\BuFish.exe.manifest
+C:\Users\KingShing\source\repos\BuFish\BuFish\obj\Debug\BuFish.application

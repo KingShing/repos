@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfStaff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Staff>
+    <name>张三</name>
+    <sex>女</sex>
+    <age>18</age>
+    <id>01</id>
+    <address>宝山寺</address>
+    <tel>123456</tel>
+    <department>采购部</department>
+  </Staff>
+  <Staff>
+    <name>李四</name>
+    <sex>男</sex>
+    <age>34</age>
+    <id>02</id>
+    <address>宝山寺</address>
+    <tel>133456</tel>
+    <department>采购部</department>
+  </Staff>
+  <Staff>
+    <name>1</name>
+    <sex>1</sex>
+    <age>18</age>
+    <id>1</id>
+    <address>1</address>
+    <tel>1</tel>
+    <department>1</department>
+  </Staff>
+</ArrayOfStaff>
